@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -710,9 +710,15 @@ a[href="contact.html"] {
     color: black;
 }
 
+
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+}
+
+h2.tc-white {
+    color: white
 }
 
 h3 {
@@ -729,7 +735,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white!important;
 }
 
 h4 {
