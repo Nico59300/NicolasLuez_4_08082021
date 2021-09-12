@@ -699,7 +699,7 @@ p {
     font-weight: 700;
 }
 
-.social {
+a.social {
     min-width: 48px;
     min-height: 48px;
     margin: 8px;
