@@ -741,7 +741,7 @@ h4 {
     margin-top: 24px;
 }
 
-.black {
+p.black, a.social > span{
     color: black!important;
 }
 
@@ -781,13 +781,13 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
-    color: white!important;
+.tc-black {
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
