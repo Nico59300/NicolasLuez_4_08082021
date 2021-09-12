@@ -718,7 +718,7 @@ h2 {
 }
 
 h2.tc-white {
-    color: white
+    color: white!important;
 }
 
 h3 {
