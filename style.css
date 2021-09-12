@@ -706,6 +706,10 @@ a.social {
     margin: 8px;
 }
 
+a[href="contact.html"] {
+    color: black;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -737,8 +741,8 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
+.black {
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -778,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
