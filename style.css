@@ -698,6 +698,10 @@ a.social {
     margin: 8px;
 }
 
+a.social:hover span {
+    color: grey;
+}
+
 a[href="contact.html"] {
     color: black;
 }
@@ -1027,6 +1031,7 @@ p.black, a.social > span{
     }
     .bg-banniere {
         background-image: url("img/la-chouette-agence-banniere-mobile.jpg");
+        background-size: cover;
     }
     
     .bg-presentation {
